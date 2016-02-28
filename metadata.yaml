@@ -1,0 +1,31 @@
+_repo: Buddhism-and-Buddhists-in-China_8390
+creator:
+  author:
+    agent_name: Hodous, Lewis
+    birthdate: 1872
+    deathdate: 1949
+    gutenberg_agent_id: '2719'
+    url: http://www.gutenberg.org/2009/agents/2719
+    wikipedia: http://en.wikipedia.org/wiki/Lewis_Hodous
+description: Buddhism is a religion which must be viewed from many angles. Its original
+  form, as preached by Gautama in India and developed in the early years succeeding,
+  and as embodied in the sacred literature of early Buddhism, is not representative
+  of the actual Buddhism of any land today. The faithful student of Buddhist literature
+  would be as far removed from understanding the working activities of a busy center
+  of Buddhism in Burmah, Tibet or China today as a student of patristic literature
+  would be from appreciating the Christian life of London or New York City. Moreover
+  Buddhism, like Christianity.
+gutenberg_bookshelf: Buddhism
+gutenberg_issued: '2005-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8390'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buddhism'
+- !lcc 'BQ'
+title: Buddhism and Buddhists in China
+url: http://www.gutenberg.org/ebooks/8390
